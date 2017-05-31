@@ -1,0 +1,49 @@
+.left_rail {
+    padding: 15px;
+    height: 100vh;
+    width: 30%;
+    background: #333;
+    position: relative;
+    
+}
+
+h4 {
+    color: lightgray;
+    font-size: 20px;
+    font-family: "Open_Sans";
+    margin-left: 4px;
+    
+}
+
+.list-item {
+    
+    display: flex;
+    margin-top: 15px;
+    
+}
+
+.bottom_left_rail {
+    padding: 15px;
+    height: 33%;
+    width: 100%;
+    background: #252525;
+    position: absolute; 
+    bottom: 0;
+    left: 0;
+}
+.icon {
+    margin-right: 15px;
+    height: 20px;
+    fill: lightgray;
+}
+.icon2 {
+    margin: 0 15px 0 38px;
+    height: 20px;
+    fill: lightgray;
+}
+#refresh_symbol {
+    height: 20px;
+    fill: lightgray;
+    float
+    
+}
